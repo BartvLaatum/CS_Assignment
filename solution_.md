@@ -6,5 +6,4 @@
 
     The neurocognitive effects of alcohol on adolescents and college students.
 
-alt text
-
+![hello](https://github.com/BartvLaatum/CS_Assignment/blob/master/Beer%20per%20student.png)
